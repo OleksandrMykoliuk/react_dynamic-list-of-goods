@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,WACE,WAAY,CACZ,eAAgB","file":"main.2d48f097.chunk.css","sourcesContent":[".App__list {\n  width: 450px;\n  margin-left: 5px;\n}\n"]}

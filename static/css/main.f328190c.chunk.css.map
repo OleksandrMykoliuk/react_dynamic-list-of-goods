@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss","Button.scss"],"names":[],"mappings":"AAAA,WACE,WAAY,CACZ,eAAgB,CCFlB,QACE,UAAW,CADb,qBAII,kBAA8B","file":"main.f328190c.chunk.css","sourcesContent":[".App__list {\n  width: 450px;\n  margin-left: 5px;\n}\n",".Button {\n  margin: 5px;\n\n  &:nth-child(4) {\n    background: rgb(238, 165, 165);\n  }\n}\n"]}
